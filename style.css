@@ -52,7 +52,7 @@ button {
     --button_radius: 0.75em;
     --button_color: #e8e8e8;
     --button_outline_color: #000000;
-    width: 80px;
+    width: 70px;
     font-size: 12px;
     font-weight: bold;
     border: none;
